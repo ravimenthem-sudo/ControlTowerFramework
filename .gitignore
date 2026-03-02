@@ -3,3 +3,4 @@ node_modules/
 .DS_Store
 *.log
 check_db.js
+COMPREHENSIVE_DOCUMENTATION.md
